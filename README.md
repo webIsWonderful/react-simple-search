@@ -1,2 +1,2 @@
-# react-simple-search
-Tiny search app build with React and Context
+# simpleSearch
+A simple search system build with React and Context
