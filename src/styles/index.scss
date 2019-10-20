@@ -1,0 +1,11 @@
+@import 'reset';
+@import 'vars';
+
+body {
+  font-family: $fontFamily;
+  background-color: $defaultBgColor;
+}
+
+#root{
+  padding: 10px 30px;
+}
